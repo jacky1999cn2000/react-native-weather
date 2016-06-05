@@ -96,3 +96,13 @@
      ...
    });
    ```
+* How to set opacity
+```javascript
+textWrapper: {
+  flex: 3,
+  justifyContent: 'center',
+  alignItems: 'center',
+  backgroundColor: '#000000',
+  opacity: 0.3,
+}
+```
